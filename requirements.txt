@@ -4,3 +4,4 @@ pandas
 numpy
 pathlib
 IPython
+scikit-learn
